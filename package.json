@@ -1,0 +1,11 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "This is a zoom cloning project from Web Dev Simplified",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
